@@ -2,19 +2,19 @@
 
 记录开发点滴，喜欢研究一些新技术，喜欢的点star
 
-## 随便聊聊
+### 随便聊聊
 
-## js
+### js
+- 高阶函数   
 
+### css
 
-## css
-
-## vue
-
-
-## react
+### vue
 
 
-## 其他
+### react
+
+
+### 其他
 
 - [如何及时发现线上bug](https://github.com/lzcrwxl/Blog/issues/1)
