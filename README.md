@@ -5,7 +5,7 @@
 ### 随便聊聊
 
 ### js
-- 高阶函数   
+- [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
 ### css
 
