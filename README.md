@@ -18,3 +18,4 @@
 ### 其他
 
 - [如何及时发现线上bug](https://github.com/lzcrwxl/Blog/issues/1)
+- [如何手机访问局域网](https://github.com/lzcrwxl/Blog/issues/4)
