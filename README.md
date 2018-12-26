@@ -3,8 +3,6 @@
 记录开发点滴，爱折腾，爱琢磨新技术，喜欢的点star
 
 ### 随便聊聊
-- [开源即责任-----阴明(转载)](https://github.com/lzcrwxl/Blog/issues/6) 
-- [2018年前端技术总结----方应杭在饥人谷(转载)](https://github.com/lzcrwxl/Blog/issues/6) 
 ### js
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
