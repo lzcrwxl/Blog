@@ -3,7 +3,7 @@
 记录开发点滴，喜欢研究一些新技术，喜欢的点star
 
 ### 随便聊聊
-- [开源即责任(转载)](https://github.com/lzcrwxl/Blog/issues/6) 
+- [开源即责任-----阴明(转载)](https://github.com/lzcrwxl/Blog/issues/6) 
 ### js
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
