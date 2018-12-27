@@ -9,7 +9,7 @@
 ### css
 
 ### vue
-
+- [Vue单页面如何做seo页面优化](https://github.com/lzcrwxl/Blog/issues/6)
 
 ### react
 - [React应用中使用装饰器](https://github.com/lzcrwxl/Blog/issues/3)
