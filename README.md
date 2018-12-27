@@ -4,7 +4,7 @@
 
 ### 随便聊聊
 - [对于学基础还是学框架的个人理解](https://github.com/lzcrwxl/Blog/issues/7)
-
+- [js设计模式---单列模式](https://github.com/lzcrwxl/Blog/issues/7)
 ### js
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
