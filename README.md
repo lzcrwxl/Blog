@@ -3,6 +3,8 @@
 记录开发点滴，爱折腾，爱琢磨新技术，喜欢的点star
 
 ### 随便聊聊
+- [对于学基础还是学框架的个人理解](https://github.com/lzcrwxl/Blog/issues/7)
+
 ### js
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
