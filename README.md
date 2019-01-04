@@ -9,7 +9,7 @@
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
 
 ### css
-  [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
+- [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
 ### vue
 - [vue单页面seo另一种方式---prerender+metaInfo](https://github.com/lzcrwxl/Blog/issues/6)
 
