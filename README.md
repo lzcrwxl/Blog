@@ -7,7 +7,8 @@
 
 ### js
 - [高阶函数](https://github.com/lzcrwxl/Blog/issues/2)   
-- [老生常谈之JS中的apply()方法](https://github.com/lzcrwxl/Blog/issues/9)   
+- [老生常谈之JS中的apply()方法](https://github.com/lzcrwxl/Blog/issues/9)  
+- [装饰函数实现插件式的表单验证](https://github.com/lzcrwxl/Blog/issues/10) 
 ### css
 - [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
 ### vue
