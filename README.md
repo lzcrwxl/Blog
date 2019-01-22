@@ -11,7 +11,7 @@
 - [装饰函数实现插件式的表单验证](https://github.com/lzcrwxl/Blog/issues/10) 
 - [传递对象参数代替过长的参数列表](https://github.com/lzcrwxl/Blog/issues/11) 
 - [如何判断一个数组之最优方案](https://github.com/lzcrwxl/Blog/issues/12)
-- [兼容多种模块(AMD&CMD&NODE&浏览器) 规范](https://github.com/lzcrwxl/Blog/issues/13)
+- [兼容多种模块(AMD&CMD&commonjs&浏览器) 规范](https://github.com/lzcrwxl/Blog/issues/13)
 ### css
 - [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
 ### vue
