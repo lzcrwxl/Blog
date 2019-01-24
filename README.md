@@ -12,6 +12,7 @@
 - [传递对象参数代替过长的参数列表](https://github.com/lzcrwxl/Blog/issues/11) 
 - [如何判断一个数组之最优方案](https://github.com/lzcrwxl/Blog/issues/12)
 - [兼容多种模块(AMD&CMD&commonjs&浏览器) 规范](https://github.com/lzcrwxl/Blog/issues/13)
+
 ### css
 - [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
 ### vue
@@ -21,7 +22,7 @@
 - [React应用中使用装饰器](https://github.com/lzcrwxl/Blog/issues/3)
 
 ### 其他
-
+- [每日一道面试题（前端）](https://github.com/lzcrwxl/Blog/issues/14)
 - [如何及时发现线上bug](https://github.com/lzcrwxl/Blog/issues/1)
 - [如何手机访问局域网](https://github.com/lzcrwxl/Blog/issues/4)
 - [如何在linux 下安装node,mongodb,nginx](https://github.com/lzcrwxl/Blog/issues/5)
