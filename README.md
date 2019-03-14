@@ -13,6 +13,7 @@
 - [如何判断一个数组之最优方案](https://github.com/lzcrwxl/Blog/issues/12)
 - [兼容多种模块(AMD&CMD&commonjs&浏览器) 规范](https://github.com/lzcrwxl/Blog/issues/13)
 - [函数声明的提升和变量声明的提升](https://github.com/lzcrwxl/Blog/issues/15)
+- [浏览器如何渲染页面](https://github.com/lzcrwxl/Blog/issues/18)
 
 ### css
 - [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
