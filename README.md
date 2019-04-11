@@ -19,6 +19,7 @@
 ### vue
 - [vue单页面seo另一种方式---prerender+metaInfo](https://github.com/lzcrwxl/Blog/issues/6)
 - [vue-cli3.0 环境变量配置](https://github.com/lzcrwxl/Blog/issues/19)
+- [vue.js的keep-alive include无效](https://github.com/lzcrwxl/Blog/issues/20)
 
 ### react
 - [React应用中使用装饰器](https://github.com/lzcrwxl/Blog/issues/3)
