@@ -30,3 +30,4 @@
 - [如何及时发现线上bug](https://github.com/lzcrwxl/Blog/issues/1)
 - [如何手机访问局域网](https://github.com/lzcrwxl/Blog/issues/4)
 - [如何在linux 下安装node,mongodb,nginx](https://github.com/lzcrwxl/Blog/issues/5)
+- [浏览器如何调用摄像头](https://github.com/lzcrwxl/Blog/issues/21)
