@@ -16,15 +16,18 @@
 
 ### css
 - [scss高级语法之遍历数组](https://github.com/lzcrwxl/Blog/issues/8)   
+
 ### vue
 - [vue单页面seo另一种方式---prerender+metaInfo](https://github.com/lzcrwxl/Blog/issues/6)
 - [vue-cli3.0 环境变量配置](https://github.com/lzcrwxl/Blog/issues/19)
 - [vue.js的keep-alive include无效](https://github.com/lzcrwxl/Blog/issues/20)
+- [vue打包后ios环境长按无法识别二维码](https://github.com/lzcrwxl/Blog/issues/22)
 
 ### react
 - [React应用中使用装饰器](https://github.com/lzcrwxl/Blog/issues/3)
 - [react-router 4.0 以上可选参数配置之填坑](https://github.com/lzcrwxl/Blog/issues/16)
 - [create-react-app设置proxy反向代理不起作用](https://github.com/lzcrwxl/Blog/issues/17)
+
 ### 其他
 - [每日一道面试题（前端）](https://github.com/lzcrwxl/Blog/issues/14)
 - [如何及时发现线上bug](https://github.com/lzcrwxl/Blog/issues/1)
